@@ -4,7 +4,6 @@
 
 - Essas são as minhas redes sociais:
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-vieira-trindade-do-esp%C3%ADrito-santo-a798523a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/leandrosanto/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SEUUSERNAME/) 
@@ -13,8 +12,7 @@
 
 <br>
 
-## Linguagens, de Programação, de Marcação e de Estilo que aprendi.
-
+## E estas, são as as linguagens, de programação, de marcação e de estilo que aprendi.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
